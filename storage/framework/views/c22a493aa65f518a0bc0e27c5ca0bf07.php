@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('logo.svg')); ?>" class="h-10 w-auto" alt=""> <?php /**PATH C:\xampp\htdocs\laravel-dev-assessment-master\resources\views/components/logo.blade.php ENDPATH**/ ?>
